@@ -28,7 +28,7 @@ regression_model.pkl (model nesnesi)
 
 requirements.txt (modüller ve versiyonlarının bilgisi. heroku tarafı için çok önemlidir.)
 
-
+https://salepred.herokuapp.com/
 
 
 *İstenildiği taktirde data klasörü, model.py dosyası alınmayabilir. (1. maddeyle çelişiyoruz evet). Neden? Çünkü pkl model nesnesi zaten elimizde. Bu model nesnesini oluşturmak için model.py ve data içerisindeki Advertising.csv dosyaları kullanıldı.
